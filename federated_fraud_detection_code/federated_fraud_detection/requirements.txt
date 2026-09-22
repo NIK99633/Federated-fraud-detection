@@ -1,0 +1,7 @@
+flwr[simulation]>=1.21.0,<2.0
+tensorflow>=2.16.1,<2.20
+numpy>=1.26.0,<3.0
+pandas>=2.2.0,<3.0
+scikit-learn>=1.5.0,<2.0
+matplotlib>=3.9.0,<4.0
+seaborn>=0.13.2,<1.0
